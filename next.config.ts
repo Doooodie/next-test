@@ -5,7 +5,6 @@ const nextConfig: NextConfig = {
     ignoreDuringBuilds: true,
   },
   experimental: {
-    ppr: 'incremental',
     reactCompiler: true,
   },
 };
